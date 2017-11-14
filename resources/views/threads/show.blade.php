@@ -18,7 +18,9 @@
                 </div>
             </div>
         </div>
-
+        <br>
+        <hr>
+        <br>
         <div class="row" style="color: #ffb836;">
             <div class="col-md-8 col-md-offset-2">
                 @foreach($thread->replies as $reply)
